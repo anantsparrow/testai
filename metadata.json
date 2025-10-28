@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Hosting Dashboard",
+  "description": "A modern, responsive client area dashboard for a web hosting service. It provides users with an at-a-glance overview of their services, resource usage, billing, and support tickets, featuring an AI-powered performance analyst.",
+  "requestFramePermissions": []
+}
